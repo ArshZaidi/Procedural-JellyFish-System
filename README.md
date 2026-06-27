@@ -44,26 +44,16 @@ Procedural Graphics
 Repository Contents
 .
 ├── README.md
+├── LICENSE
+├── desmos-workspace.png
 ├── demo.mp4
-├── screenshots/
-├── specification.pdf
-└── desmos-link.txt
-
-
-Preview
-Animation
-A short animation demonstrating the pulsating jellyfish.
-(Add your video/GIF here)
-
-Mathematical Specification
-(Add the mathematical specification image here.)
-
-Desmos Workspace
-(Add a screenshot of your Desmos graph here.)
+├── equations.png
+├── jellyfishes.png
+└── Desmos-link.txt
 
 Interactive Model
 Desmos 3D Graph
-Paste your public Desmos link here.
+https://www.desmos.com/3d/gztj60dihs
 
 Motivation
 The objective of this project was to explore whether complex animated biological structures could be represented entirely through mathematical equations.
@@ -80,8 +70,7 @@ Additional mathematical art projects
 
 Author
 Arsh Raza Zaidi
-LinkedIn: (Add Link)
-GitHub: (Add Link)
+LinkedIn: www.linkedin.com/in/arsh-raza-zaidi-265826311/
 
 License
 This project is licensed under the MIT License.
