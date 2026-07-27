@@ -1,4 +1,4 @@
-# Procedural Jellyfish Generation using Implicit Surfaces
+# Procedural Jellyfish System 🌊
 
 
 <div align="center">
