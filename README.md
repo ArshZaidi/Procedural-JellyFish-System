@@ -5,9 +5,8 @@
 
 <br>
 
-<p 
-  ![Desmos 3D](https://img.shields.io/badge/Desmos-3D%20Calculator-2D70B3?style=for-the-badge)
-  >
+<p align="center">
+  <img src="https://img.shields.io/badge/Desmos-3D%20Calculator-2D70B3?style=for-the-badge&logo=desmos&logoColor=white" />
 </p>
 
 </div>
