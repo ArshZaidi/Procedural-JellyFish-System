@@ -1,8 +1,9 @@
 # Procedural Jellyfish Generation using Implicit Surfaces
 
-# 💻 Tech Stack
-<div align="center">
 
+<div align="center">
+💻 Tech Stack
+</div>
 
 <br>
 
@@ -10,7 +11,7 @@
   <img src="https://img.shields.io/badge/Desmos-3D%20Calculator-2D70B3?style=for-the-badge&logo=desmos&logoColor=white" />
 </p>
 
-</div>
+
 
 A procedurally generated, mathematically animated 3D jellyfish system built entirely in Desmos 3D using implicit surfaces, trigonometric functions, constraints, and HSV color mapping.
 
