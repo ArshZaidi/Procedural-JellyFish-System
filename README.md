@@ -1,7 +1,8 @@
 # Procedural Jellyfish Generation using Implicit Surfaces
 
-<div align="center">
 # 💻 Tech Stack
+<div align="center">
+
 
 <br>
 
